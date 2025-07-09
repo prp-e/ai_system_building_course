@@ -1,8 +1,11 @@
 ## HISTORY
 
-- I grew up in the Austin, TX area
-- I went to Mission High School, where I was bullied a decent amount
-- High school is where I met my 2 life-long friends, Doug and Mitchell who are still my friends today
+- Was born in May 30th 1996
+- Was born in Tehran, Iran
+- Grown up in Tehran and Bandar Abbas
+- Moved to Karaj since the age 21
+- Studied *computer hardware engineering*
+- Started multiple startups in different fields (mostly Free Software and AI)
 
 ## PROBLEMS
 
