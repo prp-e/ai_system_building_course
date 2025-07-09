@@ -12,6 +12,7 @@
 - P1: Can't come up with new ideas. 
 - P2: Everything I think of, a big corporate (such as OpenAI) can and will do better. 
 - P3: I can't think of any new ideas which make a BOOM in the industry, at least in the local scene.
+- P4: Infrastructure is really expensive and I need better alternatives (such as smaller models or even reliable API's for good models)
 
 ## MISSION
 
@@ -22,8 +23,10 @@
 
 ## NARRATIVES
 
-- N1: 
- 
+- N1: AI is now the hype and it can help developers or engineers like me find their right place in the industry. This is what motivates me a lot in the field. 
+- N2: Open Source means many different things. The best one is having millions of developers want to help your project(s) willingly and this is why I personally am looking for making my projects open source or at least have open source versions of them as well.
+- N3: The wealth I may generate with the company I start, may be a support for other projects and also can help me fund/acquire good projects in the space. 
+
 ## GOALS
 
 - G1: Go on the Secure Code Warrior podcast by July of 2026
