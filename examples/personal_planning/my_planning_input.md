@@ -37,13 +37,11 @@
 
 ## CHALLENGES
 
-- C1: I'm super stressed at work and never have time to work on SOSS.
-- C2: I'm having trouble building the UI/UX for SOSS
-- C3: Someone else has a similar project and it's distracting me and demotivating me
-- C4: Hate dating apps
+- C1: I have anxiety and it causes a lot of disruptions for me. 
+- C2: I have ADHD and I can be distracted easily. 
+- C3: I live in a super noisy environment. My family have strict rules for lunch/dinner time which is not matching with my waking up/sleeping schedules and it makes me stay up really late. 
+- C3: The noise from the environment sometimes goes too high which can't even be avoided by noise-cancelling headphones. 
 
 ## IDEAS
 
-- I1: Go is the best language because of how universal and fast it is
-- I2: All government software should be OSS and run off SOSS
-- I3: Adam Smith's invisible hand doesn't apply to FOSS because incentives are misaligned
+- I1: 
