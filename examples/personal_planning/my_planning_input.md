@@ -15,12 +15,14 @@
 
 ## MISSION
 
-- M1: Create and promote a standard for building secure open-source software
+- M1: Create a great AI startup which can help humanity grow. 
+- M2: Create a good bunch of open-source AI related tools in order to keep the system going even without my supervision. 
+- M3: Create enough wealth to support my family and myself. 
+- M4: Create charity/philantropistic organizations to help people in the world in many ways possible.
 
 ## NARRATIVES
 
-- N1: I think open-sources software is the future, and it's currently extremely insecure, so I'm building a standard and platform for people to create secure versions of whatever they build
-- N2: I am the author of a platform that helps people create secure software.
+- N1: 
  
 ## GOALS
 
