@@ -29,10 +29,11 @@
 
 ## GOALS
 
-- G1: Go on the Secure Code Warrior podcast by July of 2026
-- G2: Get at least 100,000 downloads of SecureOSS by December of 2026
-- G3: Wife by 35
-- G4: First kid by 36
+- G1: being featured in international news outlets by February 2026. 
+- G2: getting international investors for my new company by March 2026
+- G3: Having $1 million (USD) in form of cash in my wallet (crypto or otherwise)
+- G4: Getting married before age 32. 
+- G5: First kid by 35
 
 ## CHALLENGES
 
