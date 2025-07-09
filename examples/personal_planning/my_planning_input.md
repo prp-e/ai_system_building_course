@@ -40,7 +40,7 @@
 - C1: I have anxiety and it causes a lot of disruptions for me. 
 - C2: I have ADHD and I can be distracted easily. 
 - C3: I live in a super noisy environment. My family have strict rules for lunch/dinner time which is not matching with my waking up/sleeping schedules and it makes me stay up really late. 
-- C3: The noise from the environment sometimes goes too high which can't even be avoided by noise-cancelling headphones. 
+- C4: The noise from the environment sometimes goes too high which can't even be avoided by noise-cancelling headphones. 
 
 ## IDEAS
 
