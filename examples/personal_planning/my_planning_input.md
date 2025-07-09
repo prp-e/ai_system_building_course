@@ -44,4 +44,10 @@
 
 ## IDEAS
 
-- I1: 
+- I1: An AI Platform which solves new problems or solves the old problems in a new way. 
+- I2: Developing one big (at least 100 billion parameters) language model. 
+- I3: Developing one small (3 or 4 billion parameters) language model. 
+- I4: Developing a semantic image model (generate and alter images)
+- I5: Using AI in order to help other businesses based on their data. 
+- I6: Making an AI crypto currency (AI coin)
+- I7: Mixing AI and Blockchain 
