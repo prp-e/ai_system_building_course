@@ -9,7 +9,9 @@
 
 ## PROBLEMS
 
-- P1: Not enough people understand how to build secure open-source software
+- P1: Can't come up with new ideas. 
+- P2: Everything I think of, a big corporate (such as OpenAI) can and will do better. 
+- P3: I can't think of any new ideas which make a BOOM in the industry, at least in the local scene.
 
 ## MISSION
 
