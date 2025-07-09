@@ -8,4 +8,4 @@
 
 ### YouTube videos (in Persian)
 
-- [Personal Planning Video]()
+- [Personal Planning Video](https://youtu.be/qA39G0n0hcc)
