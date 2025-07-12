@@ -5,6 +5,7 @@
 ### Resources
 
 - [Personal Planner](./personal_planner/)
+- [Tools](./tools)
 
 ### YouTube videos (in Persian)
 
